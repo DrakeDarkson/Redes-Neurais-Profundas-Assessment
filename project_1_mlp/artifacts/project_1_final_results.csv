@@ -1,0 +1,5 @@
+task,model,primary_metric,value
+Classification,Logistic Regression,F1,0.9310344827586207
+Classification,MLP,F1,0.9836065573770492
+Regression,Ridge Regression,RMSE,2.668805077210033
+Regression,MLP,RMSE,0.5242528401190102

@@ -1,0 +1,7 @@
+check,passed
+Required files exist,True
+TensorBoard logs exist,True
+Classification checkpoint reproduces predictions,True
+Regression checkpoint reproduces predictions,True
+Classification test metrics are finite,True
+Regression test metrics are finite,True
